@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=de.chclaus.spring.boot.quartz.configuration.QuartzWebAutoConfiguration
